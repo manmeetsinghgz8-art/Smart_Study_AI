@@ -450,7 +450,7 @@ elif page == "Student Profile":
     defaults = {
         "name": "Manmeet Singh",
         "roll_number": "2025A1R018",
-        "semester": 2,
+        "semester": 3,
         "branch": "B.Tech CSE",
         "available_hours": 3.0,
         "preferred_time": "Evening",
@@ -1868,7 +1868,7 @@ elif page == "Settings/About":
     st.write("**Project:** AI-Powered Smart Study Planner and Student Performance Prediction System")
     st.write("**Student:** Manmeet Singh")
     st.write("**Roll Number:** 2025A1R018")
-    st.write("**Course:** B.Tech CSE – 2nd Semester, A3")
+    st.write("**Course:** B.Tech CSE – 3rd Semester, A3")
     st.write("**Subject:** Artificial Intelligence and Machine Learning (MDC - AI - 301)")
 
     st.divider()
